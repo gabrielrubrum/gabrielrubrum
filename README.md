@@ -2,30 +2,25 @@
 
 <img src="./assets/banner.png" width="100%" />
 
-<br/>
-<br/>
+<br/><br/>
 
 <img src="./assets/R.png" width="90"/>
 
 # Gabriel Rubrum
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=32&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;SaaS+Builder;AI+Systems;Building+Real+World+Products">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;SaaS+Builder;AI+Systems;Building+Scalable+Platforms">
 </p>
 
 <p align="center">
   <b>Full-Stack Developer • Founder @ Verv</b>
-  <br/>
-  Building scalable systems, SaaS and AI platforms
 </p>
 
 <p align="center">
-  <a href="https://verv.com.br">
-    <img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:contato@verv.com.br">
-    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/SaaS-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FullStack-FF0000?style=for-the-badge"/>
 </p>
 
 </div>
@@ -34,40 +29,74 @@
 
 ## 🧠 About
 
-I build **real-world systems** focused on performance, scalability and modern architecture.
+I build **real-world platforms** focused on performance, scalability and product-oriented architecture.
 
-- SaaS platforms  
-- AI-powered systems  
-- Web & mobile applications  
-- Backend architecture  
+- SaaS systems  
+- AI-powered applications  
+- Web & mobile development  
+- Backend & infrastructure  
 - Automation & integrations  
 
 ---
 
 ## 🚀 Featured Projects
 
-### ✈️ Nexrice — Airport Transfer Platform
-Production-ready platform for airport transportation services.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./assets/projects/nexrice.png" width="100%" />
+      <h3>✈️ Nexrice</h3>
+      <p>Airport transfer platform with booking, scheduling and real-time operations.</p>
+      <p><a href="https://github.com/gabrielrubrum/nexrice">View Repository</a></p>
+    </td>
+    <td width="50%">
+      <img src="./assets/projects/ai-platform.png" width="100%" />
+      <h3>🤖 AI Platform</h3>
+      <p>Automation system with intelligent workflows and scalable architecture.</p>
+      <p><a href="https://github.com/gabrielrubrum/ai-platform">View Repository</a></p>
+    </td>
+  </tr>
 
-- Booking system  
-- Admin dashboard  
-- Scheduling & management  
-- Real-time operations  
+  <tr>
+    <td width="50%">
+      <img src="./assets/projects/ai-assistant.png" width="100%" />
+      <h3>🧠 AI Assistant</h3>
+      <p>Smart assistant for automation and user interaction.</p>
+      <p><a href="https://github.com/gabrielrubrum/ai-assistant-platform">View Repository</a></p>
+    </td>
+    <td width="50%">
+      <img src="./assets/projects/voip-platform.png" width="100%" />
+      <h3>📡 VOIP Platform</h3>
+      <p>Real-time communication system with scalable backend.</p>
+      <p><a href="https://github.com/gabrielrubrum/voip-platform">View Repository</a></p>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td width="50%">
+      <img src="./assets/projects/pizer.png" width="100%" />
+      <h3>🍕 Pizer</h3>
+      <p>Food ordering platform with admin panel and payment-ready structure.</p>
+      <p><a href="https://github.com/gabrielrubrum/pizer-app">View Repository</a></p>
+    </td>
+    <td width="50%">
+      <img src="./assets/projects/financial-horizon.png" width="100%" />
+      <h3>💰 Financial Horizon</h3>
+      <p>Financial system for transactions, analytics and backend operations.</p>
+      <p><a href="https://github.com/gabrielrubrum/financial-horizon">View Repository</a></p>
+    </td>
+  </tr>
 
-### 🤖 AI Platform
-Automation and intelligent workflows platform.
-
----
-
-### 🧠 AI Assistant
-Virtual assistant with smart responses and automation.
-
----
-
-### 📡 VOIP Platform
-Real-time communication system.
+  <tr>
+    <td width="50%">
+      <img src="./assets/projects/marketing-platform.png" width="100%" />
+      <h3>🎯 Marketing Platform</h3>
+      <p>Platform for campaigns, leads and marketing automation.</p>
+      <p><a href="https://github.com/gabrielrubrum/marketing-platform">View Repository</a></p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ---
 
@@ -83,9 +112,9 @@ Real-time communication system.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrubrum&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielrubrum&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrubrum&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrubrum&layout=compact&theme=radical"/>
 
 </div>
 
@@ -93,10 +122,19 @@ Real-time communication system.
 
 ## 🎯 Focus
 
-- Building scalable SaaS  
+- SaaS platforms  
 - AI systems  
-- Backend architecture  
+- Backend performance  
 - Real-world applications  
+
+---
+
+<div align="center">
+
+🌐 https://verv.com.br  
+📩 contato@verv.com.br  
+
+</div>
 
 ---
 
