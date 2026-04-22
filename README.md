@@ -14,16 +14,6 @@ Building scalable SaaS, AI systems and real-world products.
 
 ---
 
-## Products
-
-<p align="center">
-
-<b>Nexride</b> • <b>Sentinel AI</b> • <b>Intelligence Hub</b> • <b>Projeto Voice</b> • <b>Financial Horizon</b> • <b>Pizer</b> • <b>NutriNath</b>
-
-</p>
-
----
-
 ## 🧰 Tech
 
 <p align="center">
